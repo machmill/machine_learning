@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-This repository contains implementations for a range of machine learning concepts. All implementations are directly runnable through their respective main.py.
+This repository contains implementations for a range of machine learning concepts. All implementations are simple and directly runnable through their respective main.py.
 
 ## Supervised:
 
@@ -92,7 +92,9 @@ B. Feature Selection
 -
 5. Probabilistic Models
 -
-6. Transformers
+6. LSTMs
+-
+7. Transformers
 -
 
 ### Topics
