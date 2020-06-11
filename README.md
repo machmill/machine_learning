@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-This repository contains implementations for a range of machine learning concepts.
+This repository contains implementations for a range of machine learning concepts. All implementations are directly runnable through their respective main.py.
 
 ## Supervised:
 
@@ -77,3 +77,28 @@ B. Feature Selection
 - 
 2. Given the Model
 - 
+
+## Deep Learning:
+
+### Models
+
+1. Convolutional Networks
+-
+2. Recurrent Networks
+-
+3. Autoencoders
+-
+4. Generative Models
+-
+5. Probabilistic Models
+-
+6. Transformers
+-
+
+### Topics
+1. Natural Language Processing
+-
+2. Reinforcement Learning
+-
+3. Computer Vision
+-
